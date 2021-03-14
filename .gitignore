@@ -1,4 +1,6 @@
 .ipynb_checkpoints
+.idea
+node_modules
 
 *.png
 *.jpg
